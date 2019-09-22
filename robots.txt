@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepieyeeyu.colinjamesfirth.uk/sitemap.xml
